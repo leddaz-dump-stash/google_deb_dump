@@ -1,0 +1,14 @@
+# razorg-user 6.0.1 MOB30X 3036618 release-keys
+- manufacturer: asus
+- platform: msm8960
+- codename: deb
+- flavor: razorg-user
+- release: 6.0.1
+- id: MOB30X
+- incremental: 3036618
+- tags: release-keys
+- fingerprint: google/razorg/deb:6.0.1/MOB30X/3036618:user/release-keys
+- is_ab: false
+- brand: google
+- branch: razorg-user-6.0.1-MOB30X-3036618-release-keys
+- repo: google_deb_dump
